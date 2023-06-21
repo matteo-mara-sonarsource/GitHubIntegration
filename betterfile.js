@@ -1,2 +1,2 @@
-var password = "Password"
-console.log(password);
+var password = "password"
+console.log('hello');
