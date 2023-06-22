@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - branch_more_vulnerable
   pull_request:
     types: [opened, synchronize, reopened]
 
